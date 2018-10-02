@@ -12,6 +12,6 @@
   },
   "ga_analytics_on" : false,
   "crypto_secret" : "!2~`HswpPPLa22+=±§sdq qwe,appp qwwokDF_",
-  "application_domain" : "http://127.0.0.1:3000",
-  "promotion_website_domain" : "http://127.0.0.1:3000"
+  "application_domain" : "http://127.0.0.1:9000",
+  "promotion_website_domain" : "http://127.0.0.1:9000"
 }
