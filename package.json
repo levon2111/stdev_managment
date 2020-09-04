@@ -41,7 +41,7 @@
   "devDependencies": {
     "chai": "^2.2.0",
     "mocha": "^3.5.3",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "selenium-webdriver": "2.45.1"
   },
   "scripts": {
